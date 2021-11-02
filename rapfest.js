@@ -396,7 +396,7 @@ pwgScript.onload = function () {
                           if (jsonResult.FormKaydedildi) {
                             $("#" + formid).remove();
 
-                            window.top.location.href = "";
+                            window.top.location.href = "tesekkurler";
                           } else {
                             if (
                               $("#" + formbase).find("#" + formid).length > 0
