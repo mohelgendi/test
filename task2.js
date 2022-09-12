@@ -30,7 +30,7 @@ let input = [
       }
     })
   }
-  
+
   function getJoiners(floor, direction) {
     input.forEach(person => {
       let pDir = person.source > person.target ? -1: 1
