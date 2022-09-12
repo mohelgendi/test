@@ -1,10 +1,4 @@
-////////////Pseudo Code////////////
-//  #loop
-//  |- Pop the first element 'K' on the input list
-//  |- Loop from:'A' source to tagret:'B' of elemnt 'K'
-//     |- Every floor check if there's any elemnts in the list between 'A' and 'B' and add them to peopleInside[]
-//     |- Every floor check if there's any person with target matching current floor and remove it from peopleInside[]
-//////////////////////////////////
+
 
 let input = [
     {
